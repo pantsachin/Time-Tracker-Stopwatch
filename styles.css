@@ -1,12 +1,17 @@
 body {
-  background: #ffa600;
+  background: #111827;
   height: 100%;
+  text-align: center;
 }
 
 .wrapper {
-  width: 100px;
-  margin: 30px auto;
+  width: 300px;
   color: #fff;
+  text-align: center;
+  margin: auto;
+}
+
+.stopwatch {
   text-align: center;
 }
 
@@ -29,7 +34,7 @@ button {
   -webkit-border-radius: 5px;
   border-radius: 5px;
   -khtml-border-radius: 5px;
-  background: #ffa600;
+  background: #111827;
   color: #fff;
   border: solid 1px #fff;
   text-decoration: none;
